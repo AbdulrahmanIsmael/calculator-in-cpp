@@ -11,7 +11,7 @@ int main()
     operator_t op;
     double x, y, result;
 
-    cout << "*** Calculator Program ***";
+    cout << "*** Calculator Program ***" << "\n";
 
     cout << "What is the operator: ";
     cin >> op;
